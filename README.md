@@ -18,6 +18,8 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrasadSimhadri&theme=dracula&utcOffset=5.5" width="48%" alt="productive time"  />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrasadSimhadri&theme=dracula" width="48%" alt="most commit language"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrasadSimhadri&theme=dracula&utcOffset=5.5" width="48%" alt="productive time"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrasadSimhadri&theme=dracula" width="48%" alt="most commit language"  />
 </div>
 
 ###
@@ -47,6 +49,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
@@ -87,6 +93,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
   <img width="12" />
 </div>
 
