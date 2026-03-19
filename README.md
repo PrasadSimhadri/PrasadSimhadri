@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrasadSimhadri&theme=dracula" width="100%" alt="profile details" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution city" />
 </div>
 
 ###
