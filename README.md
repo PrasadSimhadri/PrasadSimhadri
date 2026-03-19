@@ -87,8 +87,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PrasadSimhadri/PrasadSimhadri/metrics-output/github-metrics.svg" width="100%" alt="Integrated 3D Metrics" />
-</div>
-
 <br clear="both">
