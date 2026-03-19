@@ -1,8 +1,8 @@
+<h2 align="left">Hi 👋! My name is Prasad Simhadri</h2> 
 <div align="center">
-  <img src="banner.gif" width="100%" alt="lofi coder" />
+  <img src="banner1.gif" width="70%" alt="lofi coder" />
 </div>
 
-<h2 align="left">Hi 👋! My name is Prasad Simhadri</h2> 
 
 ###
 
