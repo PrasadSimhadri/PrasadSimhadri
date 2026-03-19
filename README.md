@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-3d-contrib.svg" width="100%" alt="3D contribution city" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution city" />
 </div>
 
 ###
