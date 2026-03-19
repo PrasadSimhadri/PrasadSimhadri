@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/krzysztof-grzybek/krzysztof-grzybek/master/assets/programmer.gif" width="100%" alt="lofi coder" />
+  <img src="banner.gif" width="100%" alt="lofi coder" />
 </div>
 
 <h2 align="left">Hi 👋! My name is Prasad Simhadri</h2> 
