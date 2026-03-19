@@ -1,35 +1,30 @@
+<div align="center">
+  <img src="banner.png" width="100%" alt="profile banner" />
+</div>
+
 <h2 align="left">Hi 👋! My name is Prasad Simhadri</h2> 
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrasadSimhadri&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasadSimhadri&theme=dracula" height="180" alt="streak stats"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrasadSimhadri&show_icons=true&theme=dracula" width="48%" alt="github stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrasadSimhadri&layout=compact&card_width=320&langs_count=5&theme=dracula&count_weight_system=files&hide_border=false" width="48%" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrasadSimhadri&theme=dracula" width="100%" alt="profile details"  />
-</div>
-
-###
-
-<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasadSimhadri&theme=dracula" width="48%" alt="streak stats"  />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrasadSimhadri&theme=dracula&utcOffset=5.5" width="48%" alt="productive time"  />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrasadSimhadri&theme=dracula" width="48%" alt="most commit language"  />
 </div>
 
 ###
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrasadSimhadri/PrasadSimhadri/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrasadSimhadri/PrasadSimhadri/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PrasadSimhadri/PrasadSimhadri/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="profile-3d-contrib/profile-3d-contrib.svg" width="100%" alt="3D contribution city" />
 </div>
 
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
@@ -88,6 +83,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
+</div>
+
+###
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrasadSimhadri/PrasadSimhadri/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrasadSimhadri/PrasadSimhadri/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PrasadSimhadri/PrasadSimhadri/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 ###
