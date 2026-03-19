@@ -4,14 +4,22 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrasadSimhadri&show_icons=true&theme=dracula" width="48%" alt="github stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrasadSimhadri&layout=compact&card_width=320&langs_count=5&theme=dracula&count_weight_system=files&hide_border=false" width="48%" alt="languages graph"  />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasadSimhadri&theme=dracula" width="48%" alt="streak stats"  />
+  
+  
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrasadSimhadri&theme=dracula" width="48%" alt="streak stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrasadSimhadri&layout=compact&card_width=320&langs_count=5&theme=dracula&count_weight_system=files&hide_border=false" width="48%" alt="languages graph"  />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrasadSimhadri&theme=dracula&utcOffset=5.5" width="48%" alt="productive time"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrasadSimhadri&theme=dracula" width="100%" alt="profile details"  />
 </div>
 
 ###
