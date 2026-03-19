@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="banner.png" width="100%" alt="profile banner" />
-</div>
-
 <h2 align="left">Hi 👋! My name is Prasad Simhadri</h2> 
 
 ###
