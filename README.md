@@ -20,6 +20,10 @@
 
 ###
 
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution city" />
+</div>
+
 ###
 
 <div align="left">
